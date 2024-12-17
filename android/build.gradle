@@ -22,7 +22,7 @@ def getExtOrIntegerDefault(name) {
 }
 
 android {
-  namespace "dog.craftz.sqlite2"
+  namespace "dog.craftz.sqlite_2"
   compileSdkVersion 31
   buildToolsVersion "31.0.0"
   ndkVersion getExtOrDefault('ndkVersion')
